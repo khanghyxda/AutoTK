@@ -1,0 +1,9 @@
+D:\Project\AutoIt\AutoTK\AutoTK\bin\Release\AutoTK.exe.config
+D:\Project\AutoIt\AutoTK\AutoTK\bin\Release\AutoTK.exe
+D:\Project\AutoIt\AutoTK\AutoTK\bin\Release\AutoTK.pdb
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.Main.resources
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.Properties.Resources.resources
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.csproj.GenerateResource.cache
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.csproj.CoreCompileInputs.cache
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.exe
+D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.pdb
