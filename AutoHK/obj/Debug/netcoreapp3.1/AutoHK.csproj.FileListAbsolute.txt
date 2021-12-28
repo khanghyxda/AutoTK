@@ -1,0 +1,15 @@
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.exe
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.deps.json
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.runtimeconfig.json
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.runtimeconfig.dev.json
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.dll
+D:\Project\AutoTK\AutoHK\bin\Debug\netcoreapp3.1\AutoHK.pdb
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.csproj.AssemblyReference.cache
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.Main.resources
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.csproj.GenerateResource.cache
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.AssemblyInfoInputs.cache
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.AssemblyInfo.cs
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.csproj.CoreCompileInputs.cache
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.dll
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.pdb
+D:\Project\AutoTK\AutoHK\obj\Debug\netcoreapp3.1\AutoHK.genruntimeconfig.cache

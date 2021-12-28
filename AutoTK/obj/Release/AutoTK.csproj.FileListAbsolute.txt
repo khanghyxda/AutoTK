@@ -7,3 +7,13 @@ D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.csproj.GenerateResource.cache
 D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.csproj.CoreCompileInputs.cache
 D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.exe
 D:\Project\AutoIt\AutoTK\AutoTK\obj\Release\AutoTK.pdb
+D:\Project\AutoTK\AutoTK\bin\Release\AutoTK.exe.config
+D:\Project\AutoTK\AutoTK\bin\Release\AutoTK.exe
+D:\Project\AutoTK\AutoTK\bin\Release\AutoTK.pdb
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.csproj.AssemblyReference.cache
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.Main.resources
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.Properties.Resources.resources
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.csproj.GenerateResource.cache
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.csproj.CoreCompileInputs.cache
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.exe
+D:\Project\AutoTK\AutoTK\obj\Release\AutoTK.pdb
